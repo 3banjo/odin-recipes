@@ -8,11 +8,16 @@ h1 {
     font-family: 'Trebuchet MS';
     background-color: #3d3c3b;
     color: #ec57bf;
+    padding: 10px;
 }
 a {
     background-color: #3d3c3b;
     color: #ec57bf;
     font-family: 'Trebuchet MS' ;
+    border-style: solid black;
+    padding: 10px;
+    display:inline-block;
+    margin-bottom: 50px;
 }
 
 ul {
@@ -21,6 +26,9 @@ ul {
 img {
     text-align: center;
     float: right;
+    padding: 10px;
+    border: 2px solid #ec57bf;
+    background-color: #3d3c3b;
 }
 h3 {
     font-family: 'Courier New', Courier, monospace;
@@ -28,4 +36,14 @@ h3 {
 }
 p {
     font-size: 20px;
+}
+.ing {
+    color: #ec57bf;
+}
+ol{
+    border:2px solid #ec57bf;
+    background-color: #3d3c3b;
+    padding: 5px;
+    font-size: 30px;
+    color: whitesmoke;
 }
