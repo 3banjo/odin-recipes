@@ -1,0 +1,31 @@
+body {
+    background-color: #72706f;
+}
+h1 {
+    text-align: center;
+    font-size: 70px;
+    font-weight: bolder;
+    font-family: 'Trebuchet MS';
+    background-color: #3d3c3b;
+    color: #ec57bf;
+}
+a {
+    background-color: #3d3c3b;
+    color: #ec57bf;
+    font-family: 'Trebuchet MS' ;
+}
+
+ul {
+    font-size: 30px;
+}
+img {
+    text-align: center;
+    float: right;
+}
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+p {
+    font-size: 20px;
+}
